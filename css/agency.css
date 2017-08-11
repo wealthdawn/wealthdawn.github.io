@@ -450,7 +450,7 @@ section h3.section-subheading {
   right: auto;
 }
 .timeline > li:last-child {
-  margin-bottom: 0;
+  margin-bottom: 35px;
 }
 .timeline .timeline-heading h4 {
   margin-top: 0;
@@ -520,7 +520,7 @@ section h3.section-subheading {
     min-height: 170px;
   }
   .timeline > li .timeline-panel {
-    padding: 0 20px 20px 100px;
+    padding: 0 50px 0px 10px;
   }
   .timeline > li .timeline-image {
     width: 170px;
@@ -531,7 +531,7 @@ section h3.section-subheading {
     margin-top: 40px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
-    padding: 0 100px 20px 20px;
+    padding: 0 10px 0px 50px;
   }
 }
 .team-member {
